@@ -1,16 +1,68 @@
-# React + Vite
+# IR Cell IIT Hyderabad Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive website for the International Relations Cell (IR Cell) of IIT Hyderabad Coordinator selction task, built using React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Modern responsive UI
+- Interactive image slider
+- Embedded campus video support
+- Mobile responsive navigation menu
+- Glassmorphism styled feature cards
+- Smooth hover animations
+- Social media integration
+- Clean institutional design
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- CSS
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://ir-cell-iith-website-coord-task.vercel.app/
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/PritamBagle451/ir-cell-iith-website-coord-task.git
+```
+
+Open project folder:
+
+```bash
+cd ircell
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+## Project Structure
+
+- `Header.jsx` → Navigation bar
+- `Mid.jsx` → Hero section and feature cards
+- `Calculations.jsx` → Image slider and video section
+- `Footer.jsx` → Footer section
+- `App.css` → Styling
+
+## Author
+
+### Pritam Bagle
+BTech Engineering Physics  
+IIT Hyderabad
+
+GitHub:
+https://github.com/PritamBagle451
