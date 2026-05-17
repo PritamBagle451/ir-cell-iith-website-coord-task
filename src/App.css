@@ -12,7 +12,7 @@ body {
   overflow-x:hidden;
   margin: 0;
   color: white;
-  background-image: url("irCell.png");
+  background-image: url("/irCell.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
